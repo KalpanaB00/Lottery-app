@@ -7,3 +7,7 @@ git push -u origin main
 git add .
 git commit -m "Add homepage file"
 git push origin main
+git add .
+git commit -m "Fix homepage and clean dev server"
+git push origin main
+
