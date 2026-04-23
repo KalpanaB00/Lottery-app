@@ -4,3 +4,6 @@ git remote add origin https://github.com/<your-username>/lottery-app.git
 git add .
 git commit -m "Initial commit"
 git push -u origin main
+git add .
+git commit -m "Add homepage file"
+git push origin main
