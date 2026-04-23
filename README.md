@@ -1,6 +1,6 @@
 # Lottery-app
 git init
-git remote add origin https://github.com/<your-username>/lottery-app.git
+git remote add origin https://github.com/<KalpanaB00>/lottery-app.git
 git add .
 git commit -m "Initial commit"
 git push -u origin main
